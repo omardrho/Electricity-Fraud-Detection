@@ -2,7 +2,7 @@
 
 This project is focused on using machine learning techniques to identify fraudulent electricity consumption in a population in China. The dataset used for this project contains information on the electricity consumption of individuals in the population and whether or not they have been labeled as fraudulent.
 
-## Dataset
+## Dataset ( Contact me if you want the Dataset used )
 
 The dataset used for this project contains the following features:
 
